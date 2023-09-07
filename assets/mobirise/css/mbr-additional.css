@@ -10,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Baloo 2', display;
+  font-family: 'Space Grotesk', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Baloo 2', display;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Baloo 2', display;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Baloo 2', display;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -595,7 +595,7 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Baloo 2', display;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -609,7 +609,7 @@ a:hover {
   border-color: #6592e6 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Baloo 2', display;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -2142,6 +2142,30 @@ a {
   color: #fafafa;
   text-align: left;
 }
+.cid-tP9wOHFWHZ {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+  background-color: #2299aa;
+}
+.cid-tP9wOHFWHZ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tP9wOHFWHZ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tP9wOHFWHZ .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tP9wOHFWHZ .mbr-text,
+.cid-tP9wOHFWHZ .mbr-section-btn {
+  color: #fafafa;
+}
 .cid-tP7okbbJq0 {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -2225,7 +2249,7 @@ a {
 .cid-tP86PAcF6s {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background: #4479d9;
+  background: #2299aa;
 }
 .cid-tP86PAcF6s .mbr-fallback-image.disabled {
   display: none;
