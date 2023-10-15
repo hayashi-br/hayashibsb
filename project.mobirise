@@ -12242,10 +12242,10 @@
             "padding-bottom": "(@paddingBottom * 1rem)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#fafafa"
             },
             ".mbr-text": {
-              "color": "#ffffff",
+              "color": "#fafafa",
               "text-align": "left"
             }
           },
